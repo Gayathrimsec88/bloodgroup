@@ -28,3 +28,4 @@ This is a web application that predicts your blood group from your fingerprint u
 
 ## License
 MIT
+https://1xlggt69-5000.inc1.devtunnels.ms/
